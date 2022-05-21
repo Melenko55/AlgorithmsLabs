@@ -3,7 +3,7 @@ This is repository to store my labs in Algorithms.
 
 ## Lab1 
 ### Hashes
-Lab1 is Ideal Hashing. <br />I created hash function based on algorithm described in [Introduction to Algorithms 3rd Edition ]([https://pages.github.com/](https://www.flipkart.com/introduction-algorithms-3rd/p/itmdwxyrafdburzg?pid=9788120340077&affid=sandeepgfg)).<br />Was added some custom logic in hash function to remove collisions.
+Lab1 is Ideal Hashing. <br />I created hash function based on algorithm described in [Introduction to Algorithms 3rd Edition ](https://www.flipkart.com/introduction-algorithms-3rd/p/itmdwxyrafdburzg?pid=9788120340077&affid=sandeepgfg).<br />Was added some custom logic in hash function to remove collisions.
 
 Type of values: **Real numbers**
 
